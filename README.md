@@ -21,5 +21,4 @@
 <p><font size=6 color="#E5BEEC" FACE='Verdana'>>テクノロジーとその多様性に情熱を傾ける</font> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DkznDev&bg_color=ffc2e2&color=9e4c98&line=773272&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DkznDev&bg_color=transparentcolor=9e4c98&line=ffc2e2&&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
